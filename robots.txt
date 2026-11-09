@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bestaitrainingdataproviders.com/sitemap.xml
